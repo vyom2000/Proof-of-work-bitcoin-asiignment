@@ -1,1 +1,1 @@
-# Proof-of-work-bitcoin-asiignment
+# Proof-of-work-bitcoin-assignment
